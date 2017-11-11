@@ -1,0 +1,14 @@
+{
+    "name": "anker/demo",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anker",
+            "email": "lizengcai_vip@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
